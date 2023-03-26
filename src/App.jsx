@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { ethers } from "ethers";
 import './App.css';
-import wavePortal from './utils/WavePortal.json';
+import wavePortal from './utils/abi.json';
 import logo from './synthk-okx.jpg';
 
 function Header() {
